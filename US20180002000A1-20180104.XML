@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v44-2014-04-03.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.4 2014-04-03" file="US20180002000A1-20180104.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20171219" date-publ="20180104">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20180002000</doc-number>
+<kind>A1</kind>
+<date>20180104</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>15547399</doc-number>
+<date>20160114</date>
+</document-id>
+</application-reference>
+<us-application-series-code>15</us-application-series-code>
+<priority-claims>
+<priority-claim sequence="01" kind="national">
+<country>JP</country>
+<doc-number>2015-028291</doc-number>
+<date>20150217</date>
+</priority-claim>
+</priority-claims>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>64</class>
+<subclass>C</subclass>
+<main-group>25</main-group>
+<subgroup>22</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>15</class>
+<subclass>B</subclass>
+<main-group>11</main-group>
+<subgroup>028</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>64</class>
+<subclass>C</subclass>
+<main-group>25</main-group>
+<subgroup>26</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>F</section>
+<class>15</class>
+<subclass>B</subclass>
+<main-group>11</main-group>
+<subgroup>04</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>64</class>
+<subclass>C</subclass>
+<main-group>25</main-group>
+<subgroup>24</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>64</class>
+<subclass>C</subclass>
+<main-group>25</main-group>
+<subgroup>22</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>15</class>
+<subclass>B</subclass>
+<main-group>11</main-group>
+<subgroup>04</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>64</class>
+<subclass>C</subclass>
+<main-group>25</main-group>
+<subgroup>24</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>64</class>
+<subclass>C</subclass>
+<main-group>25</main-group>
+<subgroup>26</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>F</section>
+<class>15</class>
+<subclass>B</subclass>
+<main-group>11</main-group>
+<subgroup>028</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e61">ELECTRO-HYDROSTATIC ACTUATOR SYSTEM FOR RAISING AND LOWERING AIRCRAFT LANDING GEAR</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only" applicant-authority-category="assignee">
+<addressbook>
+<orgname>SUMITOMO PRECISION PRODUCTS CO., LTD.</orgname>
+<address>
+<city>Hyogo</city>
+<country>JP</country>
+</address>
+</addressbook>
+<residence>
+<country>JP</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>HAGIHARA</last-name>
+<first-name>Shogo</first-name>
+<address>
+<city>Hyogo</city>
+<country>JP</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+<pct-or-regional-filing-data>
+<document-id>
+<country>WO</country>
+<doc-number>PCT/JP2016/051041</doc-number>
+<kind>00</kind>
+<date>20160114</date>
+</document-id>
+<us-371c12-date><date>20170728</date></us-371c12-date>
+</pct-or-regional-filing-data>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">The electro-hydrostatic actuator system for raising and lowering aircraft landing gear (<b>1</b>) is provided with at least one hydraulic actuator (<b>21, 22</b>) that is constituted so as to perform retraction and deployment of landing gear (<b>11</b>), a hydraulic circuit (<b>33</b>), a hydraulic pump (<b>32</b>), an electric motor (<b>31</b>), a controller (<b>4</b>) constituted so as to control the operation of the electric motor upon receiving an instruction relating to retraction of the landing gear or an instruction relating to deployment of the landing gear, and a sensor (<b>34</b>) that detects the discharge pressure of the hydraulic pump. The controller feeds back the discharge pressure that the sensor has detected, and controls the operation of the electric motor so that the discharge pressure of the hydraulic pump becomes a target discharge pressure.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="162.05mm" wi="178.31mm" file="US20180002000A1-20180104-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="180.17mm" wi="189.65mm" file="US20180002000A1-20180104-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="262.30mm" wi="194.06mm" orientation="landscape" file="US20180002000A1-20180104-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="244.01mm" wi="198.46mm" orientation="landscape" file="US20180002000A1-20180104-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="242.15mm" wi="192.19mm" orientation="landscape" file="US20180002000A1-20180104-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00005" num="00005">
+<img id="EMI-D00005" he="251.54mm" wi="209.55mm" orientation="landscape" file="US20180002000A1-20180104-D00005.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="lead"?>
+<heading id="h-0001" level="1">CROSS REFERENCE TO RELATED APPLICATIONS</heading>
+<p id="p-0002" num="0001">This application is a national stage application, filed under 35 U.S.C. &#xa7;371, of International Application No. PCT/JP2016/051041, filed Jan. 14, 2016, which claims priority to Japanese Application No. 2015-028291, filed Feb. 17, 2015, the contents of both which as are hereby incorporated by reference in their entirety.</p>
+<?cross-reference-to-related-applications description="Cross Reference To Related Applications" end="tail"?>
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0002" level="1">BACKGROUND</heading>
+<heading id="h-0003" level="1">Technical Field</heading>
+<p id="p-0003" num="0002">The technique disclosed herein relates to an electro-hydrostatic actuator system for raising/lowering the landing gear of an aircraft.</p>
+<heading id="h-0004" level="1">Description of Related Art</heading>
+<p id="p-0004" num="0003">Japanese Patent No. 5606044_teaches an electro-hydrostatic actuator (EHA) system for raising/lowering the landing gear of an aircraft. This system includes a hydraulic actuator, a hydraulic circuit, a hydraulic pump, an electric motor, and a controller. The controller controls the operation of the electric motor, thereby allowing the hydraulic pump to supply the hydraulic actuator with operation oil through the hydraulic circuit. The hydraulic actuator performs an extension or retraction operation, thereby allowing the landing gear to be stored in a landing gear bay or to extend from the landing gear bay. The controller feeds back the rotational speed of the electric motor and a current supplied to the electric motor, and controls the operation of the electric motor such that the rotational speed of the electric motor reaches a target rotational speed.</p>
+<heading id="h-0005" level="1">BRIEF SUMMARY</heading>
+<p id="p-0005" num="0004">When the landing gear of an aircraft is raised or lowered, the landing gear has to be retracted and extended within a predetermined range of time, and time-consuming retraction/extension of the landing gear should be avoided.</p>
+<p id="p-0006" num="0005">The present inventor found that, in an EHA system for raising/lowering a landing gear as taught in Japanese Patent No. 5606044, performing a rotational speed feedback control of an electric motor significantly varies a time taken to retract the landing gear, and a time taken to extend the landing gear depending on the environment where the aircraft is used. The present inventor also found that, in some cases, the pressure in the hydraulic actuator becomes too high.</p>
+<p id="p-0007" num="0006">In view of these problems, the technique disclosed herein attempts to, in an electro-hydrostatic actuator system for raising/lowering the landing gear of an aircraft, reduce variation of the operation of a hydraulic actuator due to environmental change.</p>
+<p id="p-0008" num="0007">An aircraft may take off from a high-temperature area such as an area at a temperature exceeding 50&#xb0; C., and land on a low-temperature area such as an area at a temperature less than or equal to &#x2212;10&#xb0; C. Conversely, the aircraft may take off from a low-temperature area, and land on a high-temperature area. Thus, the EHA system mounted in the aircraft is used in a significantly wide range of temperature, compared with generally used hydraulic equipment. In the EHA system mounted in the aircraft, the viscosity of the operation oil significantly varies from a low value to a high value due to a wide range of temperature for use.</p>
+<p id="p-0009" num="0008">The present inventor found the following facts by investigation. That is to say, if a significant decrease in temperature of operation oil causes an increase in viscosity of the operation oil, leakage of the operation oil in the hydraulic pump is decreased. As a result, this increases the discharge rate of the hydraulic pump as compared to a case where the viscosity is high. If only the feedback control of the rotational speed of an electric motor is performed like the EHA system taught in Patent Document 1, the discharge rate of the hydraulic pump is increased too much in a situation where the temperature is extremely low. As a result, the pressure in the hydraulic actuator may be too high in some cases.</p>
+<p id="p-0010" num="0009">Conversely, if a significant increase in temperature of operation oil causes a decrease in viscosity of the operation oil, leakage of the operation oil in the hydraulic pump is increased. As a result, this decreases the discharge rate of the hydraulic pump as compared to a case where the viscosity is low. If only the feedback control of the rotational speed of the electric motor is performed, the extension and retraction operations of the actuator are slow in a situation where the temperature is extremely high. As a result, in an EHA system for raising/lowering the landing gear of an aircraft taught in Patent Document 1, a time taken to retract the landing gear and a time taken to extend the landing gear significantly vary depending on the temperature environment.</p>
+<p id="p-0011" num="0010">A mechanism of raising/lowering the landing gear of an aircraft is used only during takeoff and landing, and is not used during a flight in which the aircraft is exposed to an extremely low-temperature environment. The EHA system is a system to allow individual systems to independently operate hydraulic actuators instead of a hydraulic supply system installed in an ongoing aircraft. Accordingly, if the EHA system is applied to the mechanism of raising/lowering the landing gear of an aircraft, the EHA system is stopped during a flight, and thus, the temperature of the operation oil is significantly decreased in a situation where the EHA system for raising/lowering the landing gear is operated at the time of landing. The EHA system itself may be applied to various types of systems in an aircraft. In particular, if the EHA system is applied to the mechanism of raising/lowering a landing gear, the temperature of the operation oil is extremely low during the operation, which is a unique circumstance.</p>
+<p id="p-0012" num="0011">Furthermore, in the mechanism of raising/lowering the landing gear, an aerodynamic load along with the operation condition of an aircraft is applied to the landing gear and a door, and finally to hydraulic actuators driving such parts. The direction or magnitude of the aerodynamic load varies according to the wind power in the outside and the speed of advance of the aircraft. This is also one cause that causes an operation variation of the hydraulic actuator when only the rotational speed feedback control of the electric motor is performed in the EHA system for raising/lowering the landing gear.</p>
+<p id="p-0013" num="0012">The present inventor has developed the technique disclosed herein by discovering the above-described novel problem that is peculiar to an EHA system for raising/lowering the landing gear of an aircraft. Specifically, the technique disclosed herein is directed to an electro-hydrostatic actuator system for raising/lowering the landing gear of an aircraft. This system includes: at least one hydraulic actuator configured to retract and extend the landing gear of the aircraft; a hydraulic circuit connected to the hydraulic actuator, and configured to supply and exhaust operation oil to and from the hydraulic actuator; a hydraulic pump configured to raise a pressure of the operation oil to be supplied to the hydraulic actuator through the hydraulic circuit; an electric motor connected to the hydraulic pump, and configured to drive the hydraulic pump; a controller configured to control an operation of the electric motor at receiving a command to retract or extend the landing gear; and a sensor detecting a discharge pressure of the hydraulic pump.</p>
+<p id="p-0014" num="0013">The controller, when receiving the command to retract or extend the landing gear, feeds back the discharge pressure detected by the sensor, and controls the operation of the electric motor such that the discharge pressure of the hydraulic pump reaches a target discharge pressure.</p>
+<p id="p-0015" num="0014">Here, the hydraulic actuator configured to perform retraction/extension of the landing gear of an aircraft includes a hydraulic actuator (so-called, a gear actuator) raising/lowering the landing gear, and/or a hydraulic actuator (so-called, a door actuator) opening/closing a door of a landing gear bay for storing the landing gear. The hydraulic actuator may also include a hydraulic actuator (so-called a down-lock release actuator) for releasing a mechanism for maintaining a landing gear down state.</p>
+<p id="p-0016" num="0015">According to this configuration, the controller drives the electric motor to allow the hydraulic pump to drive. The operation oil discharged from the hydraulic pump is supplied to the hydraulic actuator through the hydraulic circuit. This allows the hydraulic actuator to perform an extension or retraction operation, thereby allowing the landing gear to be stored in the landing gear bay or to extend from the landing gear bay.</p>
+<p id="p-0017" num="0016">The controller, when receiving the command regarding retraction of the landing gear or the command regarding extension of the landing gear, feeds back the discharge pressure detected by the sensor, and controls the operation of the electric motor such that the discharge pressure of the hydraulic pump reaches a target discharge pressure. In this way, the discharge pressure feedback control of the hydraulic pump keeps the discharge pressure of the hydraulic pump identical with the target discharge pressure regardless of high or low viscosity of the operation oil, in other words, regardless of the leakage condition of the operation oil in the hydraulic pump. The controller, when the discharge pressure of the hydraulic pump is lower than the target discharge pressure, increases the rotational speed of the electric motor, and when the discharge pressure of the hydraulic pump is higher than the target discharge pressure, reduces the rotational speed of the electric motor. In this way, the pressure of the operation oil supplied to the hydraulic actuator is kept identical with the predetermined pressure. This prevents the pressure in the hydraulic actuator from being too high.</p>
+<p id="p-0018" num="0017">Also, this configuration prevents the variation of the time taken to retract the landing gear and the variation of the time taken to extend the landing gear due to high or low viscosity of the operation oil. This allows the time taken to retract the landing gear and the time taken to extend the landing gear to be within a predetermined range of time.</p>
+<p id="p-0019" num="0018">The controller may include: a pressure control block receiving a pressure command of the operation oil to be supplied to the hydraulic actuator, and a feedback signal of the discharge pressure detected by the sensor to output a rotational speed command of the electric motor such that the discharge pressure of the hydraulic pump reaches a target discharge pressure associated with the pressure command; a motor rotational speed control block receiving the rotational speed command from the pressure control block, and a rotational speed feedback signal of the electric motor to output a supply current command of the electric motor such that the rotational speed of the electric motor reaches a target rotational speed associated with the rotational speed command; and a current control block receiving the supply current command from the motor rotational speed control block, and a supply current feedback signal to the electric motor to supply the electric motor with a current such that the current reaches a target supply current associated with the supply current command.</p>
+<p id="p-0020" num="0019">This configuration corresponds to performing a feedback control based on the discharge pressure of the hydraulic pump on the electro-hydrostatic actuator for raising/lowering the landing gear of the aircraft, the system performing a feedback control based on the rotational speed of the electric motor and the supply current value. This configuration prevents the pressure in the hydraulic actuator from being too high, as described above. Also, this configuration prevents the variation of the time taken to retract the landing gear and the variation of the time taken to extend the landing gear due to high or low viscosity of the operation oil. This allows the time taken to retract or extend the landing gear to be within a predetermined range of time.</p>
+<p id="p-0021" num="0020">As described above, the electro-hydrostatic actuator system for raising/lowering the landing gear of an aircraft performs a feedback control based on the discharge pressure of the hydraulic pump to prevent the pressure in the hydraulic actuator from being too high. On top of that, this mechanism of raising/lowering of the landing gear of an aircraft prevents variations of the extension and retraction operations of the hydraulic actuator.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0006" level="1">BRIEF DESCRIPTION OF THE FIGURES</heading>
+<p id="p-0022" num="0021"><figref idref="DRAWINGS">FIG. 1</figref> is a perspective view illustrating a mechanism for extending/retracting a landing gear.</p>
+<p id="p-0023" num="0022"><figref idref="DRAWINGS">FIG. 2</figref> is a block diagram showing a configuration of the EHA system for raising/lowering the landing gear.</p>
+<p id="p-0024" num="0023"><figref idref="DRAWINGS">FIG. 3</figref> is a diagram showing a comparison between a retraction operation of the landing gear in a comparative example and a retraction operation of the landing gear in an example when operation oil is at an ordinary temperature (20&#xb0; C.).</p>
+<p id="p-0025" num="0024"><figref idref="DRAWINGS">FIG. 4</figref> is a diagram showing a comparison between a retraction operation of the landing gear in a comparative example and a retraction operation of the landing gear in an example when operation oil is at a high temperature (70&#xb0; C.).</p>
+<p id="p-0026" num="0025"><figref idref="DRAWINGS">FIG. 5</figref> is a diagram showing a comparison between a retraction operation of the landing gear in a comparative example and a retraction operation of the landing gear in an example when operation oil is at a low temperature (&#x2212;55&#xb0; C.).</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<heading id="h-0007" level="1">DETAILED DESRIPTION OF VARIOUS EMBODIMENTS</heading>
+<p id="p-0027" num="0026">An embodiment of the electro-hydrostatic actuator (EHA) system for raising/lowering the landing gear of an aircraft will now be described with reference to the drawings. The EHA system described here is an example. <figref idref="DRAWINGS">FIG. 1</figref> illustrates a landing gear raising/lowering mechanism to which an EHA system <b>1</b> is applied. It is assumed here that the raising/lowering mechanism retracting a landing gear <b>11</b> into an aircraft body <b>12</b> and extending the landing gear <b>11</b> from the aircraft body <b>12</b> includes at least a gear actuator <b>21</b> raising/lowering the landing gear <b>11</b>, and a door actuator <b>22</b> opening/closing a door <b>14</b> of a landing gear bay <b>13</b> storing the landing gear <b>11</b>. These actuators <b>21</b> and <b>22</b> sequentially operate in retraction/extension of the landing gear <b>11</b>. Specifically, when the landing gear <b>11</b> is retracted, the door actuator <b>22</b> opens the door <b>14</b>, and then, the gear actuator <b>21</b> raises the landing gear <b>11</b>. After the landing gear <b>11</b> is retracted into the landing gear bay <b>13</b>, the door actuator <b>22</b> closes the door <b>14</b>. In this way, a sequence of operations of retracting the landing gear <b>11</b> is completed. When the landing gear <b>11</b> is extended, the door actuator <b>22</b> opens the door <b>14</b>, and then, the gear actuator <b>21</b> lowers the landing gear <b>11</b>. After the landing gear <b>11</b> is extended, the door actuator <b>22</b> closes the door <b>14</b>. The landing gear raising/lowering mechanism may further include a down-lock release actuator for releasing a mechanism for maintaining a landing gear down state.</p>
+<p id="p-0028" num="0027"><figref idref="DRAWINGS">FIG. 2</figref> is a block diagram illustrating the configuration of the EHA system <b>1</b>. The EHA system <b>1</b> includes: the gear actuator <b>21</b>; the door actuator <b>22</b>; a hydraulic circuit <b>33</b> connected to the gear actuator <b>21</b> and the door actuator <b>22</b>; a hydraulic pump <b>32</b> supplying operation oil to the gear actuator <b>21</b> and the door actuator <b>22</b> through the hydraulic circuit <b>33</b>; an electric motor <b>31</b> connected to the hydraulic pump <b>32</b>; an EHA controller <b>4</b> controlling the operation of the electric motor <b>31</b>; and a pressure sensor <b>34</b> detecting the discharge pressure of the hydraulic pump <b>32</b>.</p>
+<p id="p-0029" num="0028">The hydraulic circuit <b>33</b> is configured to selectively supply the gear actuator <b>21</b> or the door actuator <b>22</b> with the operation oil supplied from the hydraulic pump <b>32</b>. The hydraulic circuit <b>33</b> is also configured to exhaust the operation oil from the gear actuator <b>21</b> and the door actuator <b>22</b>. The specific configuration of the hydraulic circuit <b>33</b> is not particularly limited, and can have various configurations as appropriate.</p>
+<p id="p-0030" num="0029">The hydraulic pump <b>32</b> is configured to raise the pressure of the operation oil to be supplied to the gear actuator <b>21</b> and the door actuator <b>22</b>. The hydraulic pump <b>32</b> may be a fixed-capacity hydraulic pump. Specifically, examples of the pump may include a swash plate-type or bent-axis type piston pump, a gear pump, a screw pump, and a vane pump. The hydraulic pump <b>32</b> may be a variable-capacity hydraulic pump.</p>
+<p id="p-0031" num="0030">The electric motor <b>31</b> is connected to the hydraulic pump <b>32</b> and is configured to drive the hydraulic pump <b>32</b>. The electric motor <b>31</b> may be, e.g., a three-phase motor. The EHA controller <b>4</b> controls the operation of the electric motor <b>31</b>, thereby controlling the drive of the hydraulic pump <b>32</b>, which will be described later.</p>
+<p id="p-0032" num="0031">The pressure sensor <b>34</b> detects the discharge pressure of the hydraulic pump <b>32</b>. The pressure sensor <b>34</b> can have arbitrary configurations as appropriate. The pressure sensor <b>34</b> outputs the discharge pressure detected as a feedback signal to the EHA controller <b>4</b>.</p>
+<p id="p-0033" num="0032">The EHA controller <b>4</b> includes a pressure control block <b>41</b>, a motor rotational speed control block <b>42</b>, and a current control block <b>43</b>.</p>
+<p id="p-0034" num="0033">The pressure control block <b>41</b> is configured to receive a pressure command output from a system of the aircraft body, and a discharge pressure feedback signal from the pressure sensor <b>34</b>. The pressure command corresponds to the pressure of the operation oil to be supplied to each of the gear actuator <b>21</b> and the door actuator <b>22</b> sequentially operating in the retraction/extension of the landing gear <b>11</b>. The pressure control block <b>41</b> outputs a rotational speed command of the electric motor <b>31</b> by, e.g., a proportional-integral (PI) control such that the discharge pressure of the hydraulic pump <b>32</b> reaches a target discharge pressure based on the pressure command.</p>
+<p id="p-0035" num="0034">The motor rotational speed control block <b>42</b> is configured to receive the rotational speed command from the pressure control block <b>41</b>, and the rotational speed of the electric motor <b>31</b> as a feedback signal. The motor rotational speed control block <b>42</b> outputs a supply current command of the electric motor <b>31</b> by, e.g., a PI control such that the rotational speed of the electric motor <b>31</b> reaches a target rotational speed based on the rotational speed command.</p>
+<p id="p-0036" num="0035">The current control block <b>43</b> is configured to receive the supply current command from the motor rotational speed control block <b>42</b>, and a value of a supply current to the electric motor <b>31</b> as a feedback signal. The pressure control block <b>43</b> supplies the electric motor <b>31</b> with a current by, e.g., a PI control such that the current reaches a target supply current based on the supply current command.</p>
+<p id="p-0037" num="0036">In this way, the EHA controller <b>4</b> includes three feedback loops, namely, a pressure feedback loop based on the discharge pressure of the hydraulic pump <b>32</b>, a motor rotational speed feedback loop based on the rotational speed of the electric motor <b>31</b>, and a current feedback loop based on the supply current of the electric motor <b>31</b>.</p>
+<p id="p-0038" num="0037">According to the EHA system <b>1</b> having such a configuration, if the EHA controller <b>4</b> receives the pressure command regarding the retraction/extension of the landing gear <b>11</b> from the system in the aircraft body, the electric motor <b>31</b> is controlled such that the discharge pressure of the hydraulic pump <b>32</b> reaches the target discharge pressure. That is to say, the EHA controller <b>4</b> decreases the rotational speed of the electric motor <b>31</b> if the discharge pressure of the hydraulic pump <b>32</b> is higher than the target discharge pressure, and increases the rotational speed of the electric motor <b>31</b> if the discharge pressure of the hydraulic pump <b>32</b> is lower than the target discharge pressure.</p>
+<p id="p-0039" num="0038">When the temperature drop of the operation oil due to an extremely low temperature of its vicinity increases the viscosity thereof, the discharge pressure of the hydraulic pump <b>32</b> becomes too high though the leakage of the operation oil is reduced. The pressure feedback control regarding the discharge pressure of the hydraulic pump <b>32</b> prevents such too high discharge pressure of the hydraulic pump <b>32</b>. In particular, during an aircraft flight in which the aircraft is exposed to an extremely low-temperature environment, the EHA system <b>1</b> for raising/lowering the landing gear is stopped, and the temperature of the operation oil is significantly decreased. Thus, there may be a situation where the landing gear <b>11</b> has to be extended during landing with the temperature of the operation oil significantly decreased. Even in such a case, the discharge pressure of the hydraulic pump <b>32</b> can be prevented from being too high. This prevents the pressure of the gear actuator <b>21</b> and the pressure of the door actuator <b>22</b> from being too high beforehand.</p>
+<p id="p-0040" num="0039">Conversely, even when the temperature rise of the operation oil due to a high temperature of its vicinity decreases the viscosity thereof, and increases the leakage of the operation oil in the hydraulic pump <b>32</b>, the discharge pressure of the hydraulic pump <b>32</b> can be kept identical with the target discharge pressure. In this way, regardless of the high or low temperature of the operation oil, the discharge pressure of the hydraulic pump <b>32</b> can be kept identical with the target discharge pressure. This prevents variations of the retraction and extension operations of the gear actuator <b>21</b> and the door actuator <b>22</b>.</p>
+<p id="p-0041" num="0040">Furthermore, in the mechanism of raising/lowering the landing gear <b>11</b>, an aerodynamic load along with the operation condition of an aircraft is applied to the landing gear <b>11</b> and the door <b>14</b>. The direction or magnitude of the aerodynamic load applied to the gear actuator <b>21</b> and the door actuator <b>22</b> driving the landing gear <b>11</b> and the door <b>14</b> varies according to the wind power in the outside and the speed of advance of the aircraft. As described above, the discharge pressure feedback control allows the discharge pressure of the hydraulic pump <b>32</b> to be kept identical with the target discharge pressure, thereby stably operating the gear actuator <b>21</b> and the door actuator <b>22</b> regardless of the direction or magnitude of the aerodynamic load applied to the gear actuator <b>21</b> and the door actuator <b>22</b>. This prevents variations of the operations of the gear actuator <b>21</b> and the door actuator <b>22</b>.</p>
+<p id="p-0042" num="0041">In this way, performing the feedback control of the rotational speed of the electric motor <b>31</b> and the supply current feedback control to the electric motor <b>31</b> in addition to the discharge pressure feedback control can further reduce the variations of the operations of the gear actuator <b>21</b> and the door actuator <b>22</b>. This allows the time taken to retract the landing gear <b>11</b> and the time taken to extend the landing gear <b>11</b> to be within a predetermined range of time.</p>
+<p id="p-0043" num="0042">In this way, according to the above configuration, the EHA controller <b>4</b> includes the three feedback loops, namely, the pressure feedback loop, the motor rotational speed feedback loop, and the current feedback loop. Regarding the rotational speed control of the electric motor <b>31</b>, a feedforward control may be adopted. If this configuration is adopted, the motor rotational speed feedback loop and the current feedback loop are omitted in <figref idref="DRAWINGS">FIG. 2</figref>.</p>
+<heading id="h-0008" level="1">EXAMPLES</heading>
+<p id="p-0044" num="0043">Next, examples of the EHA system <b>1</b> for raising/lowering the landing gear of an aircraft will be described. <figref idref="DRAWINGS">FIGS. 3-5</figref> show simulation results regarding the retraction operation of the landing gear <b>11</b> in the EHA system <b>1</b> for raising/lowering a landing gear. <figref idref="DRAWINGS">FIG. 3</figref> is a simulation result when the temperature of the operation oil is 20&#xb0; C., <figref idref="DRAWINGS">FIG. 4</figref> is a simulation result when the temperature of the operation oil is 70&#xb0; C., and <figref idref="DRAWINGS">FIG. 5</figref> is a simulation result when the temperature of the operation oil is &#x2212;55&#xb0; C. The diagram on the left-hand side of each of <figref idref="DRAWINGS">FIGS. 3-5</figref> shows a comparative example, and shows how the motor rotational speed changes (top), how the pressure of the bore chamber of the gear actuator <b>21</b> changes (middle), and how the pressure of the annulus chamber of the door actuator <b>22</b> changes (bottom) if the EHA controller <b>4</b> includes the motor rotational speed feedback loop and the current feedback loop and does not include the pressure feedback loop. The diagram on the right hand side of each of <figref idref="DRAWINGS">FIGS. 3-5</figref> shows an example, and shows, if the EHA controller <b>4</b> includes the motor rotational speed feedback loop, the current feedback loop, and the pressure feedback loop (see <figref idref="DRAWINGS">FIG. 2</figref>), how the motor rotational speed changes (top), how the pressure of the bore chamber of the gear actuator <b>21</b> changes (middle), and how the pressure of the annulus chamber of the door actuator <b>22</b> changes (bottom).</p>
+<p id="p-0045" num="0044">As described above, when the landing gear <b>11</b> is retracted, the operation in which the door actuator <b>22</b> opens the door <b>14</b> (door opened), the operation in which the gear actuator <b>21</b> raises the landing gear <b>11</b> (gear up), and the operation in which the door actuator <b>22</b> closes the door <b>14</b> (door closed) are sequentially performed. The EHA controller <b>4</b> receives commands associated with respective operations.</p>
+<p id="p-0046" num="0045">First, the comparative examples shown in <figref idref="DRAWINGS">FIGS. 3-5</figref> are compared with one another. In the comparative examples, the motor rotational speed feedback control is performed, as described above. In the door open operation, the EHA controller <b>4</b> receives a motor rotational speed command associated with the operation of the door actuator <b>22</b>, and controls the electric motor <b>31</b> such that the rotational speed of the electric motor <b>31</b> reaches a target motor rotational speed associated with the motor rotational speed command. When the operation oil is at an ordinary temperature, the motor rotational speed is substantially constant during the door open operation, as shown in the top left view of <figref idref="DRAWINGS">FIG. 3</figref>. As shown in the bottom left view of <figref idref="DRAWINGS">FIG. 3</figref>, the operation oil is supplied from the hydraulic pump <b>32</b> to increase the pressure in the door actuator <b>22</b>.</p>
+<p id="p-0047" num="0046">Likewise, in the gear up operation following the door open operation, the EHA controller <b>4</b> receives a motor rotational speed command associated with the operation of the gear actuator <b>21</b>, and controls the electric motor <b>31</b> such that the rotational speed of the electric motor <b>31</b> reaches a target motor rotational speed associated with the motor rotational speed command. As shown in the top left view of <figref idref="DRAWINGS">FIG. 3</figref>, the motor rotational speed is substantially constant though it is different from that in the door open operation. As shown in the middle left view of <figref idref="DRAWINGS">FIG. 3</figref>, the operation oil is supplied from the hydraulic pump <b>32</b> to increase the pressure in the gear actuator <b>21</b>.</p>
+<p id="p-0048" num="0047">Subsequently, likewise, in the door close operation, the EHA controller <b>4</b> receives a motor rotational speed command associated with the operation of the door actuator <b>22</b>, and controls the electric motor <b>31</b> such that the rotational speed of the electric motor <b>31</b> reaches a target motor rotational speed associated with the motor rotational speed command. As shown in the top left view of <figref idref="DRAWINGS">FIG. 3</figref>, the motor rotational speed is substantially constant though it is different from that in the door open operation and that in the gear up operation. As shown in the bottom left view of <figref idref="DRAWINGS">FIG. 3</figref>, the pressure of the annulus chamber of the door actuator <b>22</b> is decreased.</p>
+<p id="p-0049" num="0048">In this way, a sequence of the operations, namely, the door open, the gear up, and the door close operations is performed to allow the landing gear <b>11</b> to be retracted within the predetermined range of time.</p>
+<p id="p-0050" num="0049">In contrast, as shown on the left-hand side of <figref idref="DRAWINGS">FIG. 4</figref>, when the operation oil is at a high temperature, the EHA controller <b>4</b> also receives a motor rotational speed command in each operation, namely, the door open, the gear up, and the door close operations, and controls the electric motor <b>31</b> such that the rotational speed of the electric motor <b>31</b> reaches a target motor rotational speed associated with each of the commands. The temperature of the operation oil is high, and thus, the viscosity thereof is low. This increases the leakage of the operation oil in the hydraulic pump <b>32</b>, thereby lowering the discharge rate of the hydraulic pump <b>32</b>, compared with the discharge rate at the ordinary temperature. This increases the time taken to perform the gear up operation, compared with that at the ordinary temperature. This is remarkable in the gear up operation shown in the middle left view of <figref idref="DRAWINGS">FIG. 4</figref>. As a result, in the comparative examples in which the rotational speed feedback control of the electric motor <b>31</b> is performed, the time taken to retract the landing gear <b>11</b> including the door open, the gear up, and the door close operations are significantly longer than that at the ordinary temperature.</p>
+<p id="p-0051" num="0050">As shown on the left-hand side of <figref idref="DRAWINGS">FIG. 5</figref>, when the temperature of the operation oil is low, the viscosity thereof is increased. This reduces the leakage of the operation oil in the hydraulic pump <b>32</b>, thereby increasing the discharge rate of the hydraulic pump <b>32</b>, compared with the discharge rate at the ordinary temperature. This allows the operation oil to be excessively supplied to the door actuator <b>22</b>, thereby significantly increasing the pressure in the door actuator <b>22</b>. This is remarkable in the door open operation in the bottom left view of <figref idref="DRAWINGS">FIG. 5</figref> (see a portion surrounded by the dotted line).</p>
+<p id="p-0052" num="0051">As shown in the top left view of <figref idref="DRAWINGS">FIG. 5</figref>, when the temperature of the operation oil is low, unlike the case where the operation oil is at the ordinary temperature (left view of <figref idref="DRAWINGS">FIG. 3</figref>), and the case where the operation oil is at a high temperature (left view of <figref idref="DRAWINGS">FIG. 4</figref>), the rotational speed of the electric motor <b>31</b> is not constant and is temporarily lowered during the gear up operation. That is because, when the energy supplied to the electric motor <b>31</b> exceeds the set upper limit value, a torque limit control decreasing the rotational speed is performed in addition to the rotational speed feedback control of the electric motor <b>31</b>. As a result, the time taken to retract the landing gear <b>11</b> when the operation oil is at a low temperature is longer than that when the operation oil is at the ordinary temperature.</p>
+<p id="p-0053" num="0052">In contrast to such comparative examples, the discharge pressure feedback control of the hydraulic pump <b>32</b> is performed in the examples. In each of the door open, the gear up, and the door close operation, the EHA controller <b>4</b> receives pressure commands associated with the respective operations of the door actuator <b>22</b> and the gear actuator <b>21</b>. The EHA controller <b>4</b> controls the electric motor <b>31</b> such that the pressure reaches a target discharge pressure associated with each of the pressure commands. That is to say, the rotational speed of the electric motor <b>31</b> is increased when the discharge pressure of the hydraulic pump <b>32</b> is low, and the rotational speed of the electric motor <b>31</b> is decreased when the discharge pressure of the hydraulic pump <b>32</b> is high. This allows the rotational speed of the electric motor <b>31</b> to vary during each operation, not to be constant, as shown in the top right views of <figref idref="DRAWINGS">FIGS. 3-5</figref>.</p>
+<p id="p-0054" num="0053">As it is clear from a comparison between right views of <figref idref="DRAWINGS">FIG. 3</figref> and right views of <figref idref="DRAWINGS">FIG. 4</figref>, when the temperature of the operation oil is high and the viscosity thereof is low, the rotational speed of the electric motor <b>31</b> is set to high since a large amount of the operation oil is leaked from the hydraulic pump <b>32</b>. This supplies the door actuator <b>22</b> and the gear actuator <b>21</b> with necessary and sufficient operation oil. In particular, as shown in the middle right view of <figref idref="DRAWINGS">FIG. 4</figref>, the time taken to perform the gear up operation is more significantly reduced than that in the conventional example. As a result, the example in which the discharge pressure feedback control of the hydraulic pump <b>32</b> is performed prevents the time taken to retract the landing gear <b>11</b> including the door open, the gear up, and the door close operations from being significantly longer than that at the ordinary temperature. That is to say, the examples can reduce the variation of the time taken to retract the landing gear <b>11</b>.</p>
+<p id="p-0055" num="0054">When the temperature of the operation oil is low, the leakage amount of the operation oil from the hydraulic pump <b>32</b> is reduced as described above. In the examples, the rotational speed of the electric motor <b>31</b> is set to low, as shown in the right view of <figref idref="DRAWINGS">FIG. 5</figref>. This reduces excess supply of the operation oil to the door actuator <b>22</b> and the gear actuator <b>21</b>, thereby making it possible to prevent a significant increase in the pressure of the door actuator <b>22</b>, which is remarkable in the door open operation shown in the bottom left view of <figref idref="DRAWINGS">FIG. 5</figref> (see a portion surrounded by the dotted line).</p>
+<heading id="h-0009" level="1">DESCRIPTION OF REFERENCE CHARACTERS</heading>
+<p id="p-0056" num="0000">
+<ul id="ul0001" list-style="none">
+    <li id="ul0001-0001" num="0055"><b>1</b> EHA System for Raising/Lowering Landing Gear</li>
+    <li id="ul0001-0002" num="0056"><b>11</b> Landing Gear</li>
+    <li id="ul0001-0003" num="0057"><b>21</b> Gear Actuator (Hydraulic Actuator)</li>
+    <li id="ul0001-0004" num="0058"><b>22</b> Door Actuator (Hydraulic Actuator)</li>
+    <li id="ul0001-0005" num="0059"><b>31</b> Electric Motor</li>
+    <li id="ul0001-0006" num="0060"><b>32</b> Hydraulic Pump</li>
+    <li id="ul0001-0007" num="0061"><b>33</b> Hydraulic Circuit</li>
+    <li id="ul0001-0008" num="0062"><b>34</b> Pressure Sensor</li>
+    <li id="ul0001-0009" num="0063"><b>4</b> EHA Controller</li>
+    <li id="ul0001-0010" num="0064"><b>41</b> Pressure Control Block</li>
+    <li id="ul0001-0011" num="0065"><b>42</b> Motor Rotational Speed Control Block</li>
+    <li id="ul0001-0012" num="0066"><b>43</b> Current Control Block</li>
+</ul>
+</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-001-2" num="001-2">
+<claim-text><b>1</b>-<b>2</b>. (canceled)</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. An electro-hydrostatic actuator system for raising/lowering a landing gear of an aircraft, the electro-hydrostatic actuator system comprising:
+<claim-text>at least one hydraulic actuator configured to retract and extend the landing gear of the aircraft;</claim-text>
+<claim-text>a hydraulic circuit connected to the hydraulic actuator, and configured to supply and exhaust operation oil to and from the hydraulic actuator;</claim-text>
+<claim-text>a hydraulic pump configured to raise a pressure of the operation oil to be supplied to the hydraulic actuator through the hydraulic circuit;</claim-text>
+<claim-text>an electric motor connected to the hydraulic pump, and configured to drive the hydraulic pump;</claim-text>
+<claim-text>a controller configured to control an operation of the electric motor at receiving a command to retract or extend the landing gear; and</claim-text>
+<claim-text>a sensor detecting a discharge pressure of the hydraulic pump,</claim-text>
+<claim-text>wherein:
+<claim-text>the controller, when receiving the command to retract or extend the landing gear, feeds back the discharge pressure detected by the sensor, and controls the operation of the electric motor such that the discharge pressure of the hydraulic pump reaches a target discharge pressure, and</claim-text>
+<claim-text>the controller includes:
+<claim-text>a pressure control block receiving a pressure command of the operation oil to be supplied to the hydraulic actuator, and a feedback signal of the discharge pressure detected by the sensor to output a rotational speed command of the electric motor such that the discharge pressure of the hydraulic pump reaches a target discharge pressure associated with the pressure command;</claim-text>
+<claim-text>a motor rotational speed control block receiving the rotational speed command from the pressure control block, and a rotational speed feedback signal of the electric motor to output a supply current command of the electric motor such that the rotational speed of the electric motor reaches a target rotational speed associated with the rotational speed command; and</claim-text>
+<claim-text>a current control block receiving the supply current command from the motor rotational speed control block, and a supply current feedback signal to the electric motor to supply the electric motor with a current such that the current reaches a target supply current associated with the supply current command.</claim-text>
+</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+</claims>
+</us-patent-application>

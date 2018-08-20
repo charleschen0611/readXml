@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE us-patent-application SYSTEM "us-patent-application-v44-2014-04-03.dtd" [ ]>
+<us-patent-application lang="EN" dtd-version="v4.4 2014-04-03" file="US20180002001A1-20180104.XML" status="PRODUCTION" id="us-patent-application" country="US" date-produced="20171219" date-publ="20180104">
+<us-bibliographic-data-application lang="EN" country="US">
+<publication-reference>
+<document-id>
+<country>US</country>
+<doc-number>20180002001</doc-number>
+<kind>A1</kind>
+<date>20180104</date>
+</document-id>
+</publication-reference>
+<application-reference appl-type="utility">
+<document-id>
+<country>US</country>
+<doc-number>15199568</doc-number>
+<date>20160630</date>
+</document-id>
+</application-reference>
+<us-application-series-code>15</us-application-series-code>
+<classifications-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>64</class>
+<subclass>C</subclass>
+<main-group>25</main-group>
+<subgroup>54</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>64</class>
+<subclass>C</subclass>
+<main-group>27</main-group>
+<subgroup>08</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>64</class>
+<subclass>C</subclass>
+<main-group>1</main-group>
+<subgroup>14</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>64</class>
+<subclass>C</subclass>
+<main-group>25</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>64</class>
+<subclass>C</subclass>
+<main-group>29</main-group>
+<subgroup>00</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+<classification-ipcr>
+<ipc-version-indicator><date>20060101</date></ipc-version-indicator>
+<classification-level>A</classification-level>
+<section>B</section>
+<class>64</class>
+<subclass>C</subclass>
+<main-group>27</main-group>
+<subgroup>26</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+</classification-ipcr>
+</classifications-ipcr>
+<classifications-cpc>
+<main-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>64</class>
+<subclass>C</subclass>
+<main-group>25</main-group>
+<subgroup>54</subgroup>
+<symbol-position>F</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</main-cpc>
+<further-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>64</class>
+<subclass>C</subclass>
+<main-group>29</main-group>
+<subgroup>0025</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>64</class>
+<subclass>C</subclass>
+<main-group>27</main-group>
+<subgroup>26</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>64</class>
+<subclass>C</subclass>
+<main-group>1</main-group>
+<subgroup>1423</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>64</class>
+<subclass>C</subclass>
+<main-group>25</main-group>
+<subgroup>10</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+<classification-cpc>
+<cpc-version-indicator><date>20130101</date></cpc-version-indicator>
+<section>B</section>
+<class>64</class>
+<subclass>C</subclass>
+<main-group>27</main-group>
+<subgroup>08</subgroup>
+<symbol-position>L</symbol-position>
+<classification-value>I</classification-value>
+<action-date><date>20180104</date></action-date>
+<generating-office><country>US</country></generating-office>
+<classification-status>B</classification-status>
+<classification-data-source>H</classification-data-source>
+<scheme-origination-code>C</scheme-origination-code>
+</classification-cpc>
+</further-cpc>
+</classifications-cpc>
+<invention-title id="d2e43">Water Helicopter</invention-title>
+<us-parties>
+<us-applicants>
+<us-applicant sequence="00" app-type="applicant" designation="us-only">
+<addressbook>
+<last-name>Daniel, SR.</last-name>
+<first-name>Carter L</first-name>
+<address>
+<city>Brooklyn</city>
+<state>MD</state>
+<country>US</country>
+</address>
+</addressbook>
+<residence>
+<country>US</country>
+</residence>
+</us-applicant>
+</us-applicants>
+<inventors>
+<inventor sequence="00" designation="us-only">
+<addressbook>
+<last-name>Daniel, SR.</last-name>
+<first-name>Carter L</first-name>
+<address>
+<city>Brooklyn</city>
+<state>MD</state>
+<country>US</country>
+</address>
+</addressbook>
+</inventor>
+</inventors>
+</us-parties>
+</us-bibliographic-data-application>
+<abstract id="abstract">
+<p id="p-0001" num="0000">Disclosed herein is a water helicopter includes a fuselage, first and second fixed wings extending outwardly from left and right ends of the fuselage, first and second propellers disposed in a spaced apart configuration on a top surface of the fuselage, and a landing and float gear attached to a bottom surface of the fuselage for enabling landing of the water helicopter on water.</p>
+</abstract>
+<drawings id="DRAWINGS">
+<figure id="Fig-EMI-D00000" num="00000">
+<img id="EMI-D00000" he="95.84mm" wi="150.54mm" file="US20180002001A1-20180104-D00000.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00001" num="00001">
+<img id="EMI-D00001" he="159.00mm" wi="125.73mm" orientation="landscape" file="US20180002001A1-20180104-D00001.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00002" num="00002">
+<img id="EMI-D00002" he="147.66mm" wi="118.87mm" orientation="landscape" file="US20180002001A1-20180104-D00002.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00003" num="00003">
+<img id="EMI-D00003" he="155.96mm" wi="128.69mm" orientation="landscape" file="US20180002001A1-20180104-D00003.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+<figure id="Fig-EMI-D00004" num="00004">
+<img id="EMI-D00004" he="144.02mm" wi="107.44mm" orientation="landscape" file="US20180002001A1-20180104-D00004.TIF" alt="embedded image" img-content="drawing" img-format="tif"/>
+</figure>
+</drawings>
+<description id="description">
+<?summary-of-invention description="Summary of Invention" end="lead"?>
+<heading id="h-0001" level="1">COPYRIGHT NOTICE</heading>
+<p id="p-0002" num="0001">A portion of the disclosure of this patent document contains material which is subject to copyright protection. The copyright owner has no objection to the facsimile reproduction by anyone of the patent document or the patent disclosure, as it appears in the Patent and Trademark Office patent file or records, but otherwise reserves all copyright rights whatsoever. 37 CFR 1.71(d).</p>
+<heading id="h-0002" level="1">FIELD</heading>
+<p id="p-0003" num="0002">The present disclosure relates generally to helicopters, and more particularly to helicopters capable of landing on water.</p>
+<heading id="h-0003" level="1">BACKGROUND</heading>
+<p id="p-0004" num="0003">A helicopter is a type of rotorcraft in which lift and thrust are supplied by rotors. This allows the helicopter to take-off and land vertically, to hover, and to fly forward, backward, and laterally. These attributes allow helicopters to be used in congested or isolated areas where fixed-wing aircraft and many forms of vertical take-off and landing aircraft cannot be performed.</p>
+<p id="p-0005" num="0004">In the event of accidents and calamities, when there is a need for rescue in water, it takes time to send a boat for rescue. A quicker rescue is required, which is possible only by air. For example, if for some reason, an aeroplane has crashed into water, people need to be rescued as soon as possible. So, an aircraft is required that can land on water and is capable of picking up lot of people, such as almost twenty people at time. There exists helicopters that are capable of picking up people from water, but they are limited to accommodating only two-three people at a time. Larger helicopters are capable of picking up people from land, but not on water.</p>
+<p id="p-0006" num="0005">In view of the above, there is a need for a helicopter/aircraft that overcomes the above-mentioned limitations of the existing systems, facilitates quicker rescue of large number of people from water bodies, and should be able to be used by Special and Military forces.</p>
+<heading id="h-0004" level="1">SUMMARY</heading>
+<p id="p-0007" num="0006">This Summary is provided to introduce a selection of concepts in a simplified form that are further described below in the Detailed Description. This Summary is not intended to identify key features or essential features of the claimed subject matter, nor it is intended to be used to limit the scope of the claimed subject matter.</p>
+<p id="p-0008" num="0007">In accordance with an embodiment of the present disclosure, a water helicopter is provided that includes a fuselage, first and second fixed wings extending outwardly from left and right ends of the fuselage, first and second propellers disposed in a spaced apart configuration on a top surface of the fuselage, and a landing and float gear attached to a bottom surface of the fuselage for enabling landing of the water helicopter on water.</p>
+<p id="p-0009" num="0008">In accordance with another embodiment of the present disclosure, a water helicopter is provided that includes a fuselage, first and second fixed wings extending outwardly from left and right ends of the fuselage, wherein the first and second fixed wings generate a lift due to a forward airspeed of the water helicopter, and shapes of the first and second fixed wings, first and second propellers disposed in a spaced apart configuration on a top surface of the fuselage, wherein the first and second propellers enable vertical ascending and descending of the water helicopter, and a landing and float gear attached to a bottom surface of the fuselage for enabling landing of the water helicopter on water.</p>
+<p id="p-0010" num="0009">It will be appreciated that features of the present disclosure are susceptible to being combined in various combinations without departing from the scope of the present disclosure as defined by the appended claims.</p>
+<?summary-of-invention description="Summary of Invention" end="tail"?>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="lead"?>
+<description-of-drawings>
+<heading id="h-0005" level="1">BRIEF DESCRIPTION OF THE DRAWINGS</heading>
+<p id="p-0011" num="0010">The foregoing summary, as well as the following Detailed Description of preferred embodiments, is better understood when read in conjunction with the appended drawings. For the purposes of illustration, there is shown in the drawings exemplary embodiments; however, the present disclosure is not limited to the specific methods and instrumentalities disclosed. In the drawings:</p>
+<p id="p-0012" num="0011">Embodiments of the present disclosure will now be described, by way of example only, with reference to the following diagrams wherein:</p>
+<p id="p-0013" num="0012"><figref idref="DRAWINGS">FIG. 1</figref> is a front perspective view of a water helicopter, in accordance with an embodiment of the present disclosure;</p>
+<p id="p-0014" num="0013"><figref idref="DRAWINGS">FIG. 2</figref> is a top perspective view of the water helicopter of <figref idref="DRAWINGS">FIG. 1</figref>, in accordance with an embodiment of the present disclosure;</p>
+<p id="p-0015" num="0014"><figref idref="DRAWINGS">FIG. 3</figref> is a top view of the water helicopter of <figref idref="DRAWINGS">FIG. 1</figref>, in accordance with an embodiment of the present disclosure; and</p>
+<p id="p-0016" num="0015"><figref idref="DRAWINGS">FIG. 4</figref> is a side view of the water helicopter of <figref idref="DRAWINGS">FIG. 1</figref>, in accordance with an embodiment of the present disclosure.</p>
+</description-of-drawings>
+<?brief-description-of-drawings description="Brief Description of Drawings" end="tail"?>
+<?detailed-description description="Detailed Description" end="lead"?>
+<p id="p-0017" num="0016">In the accompanying drawings, an underlined number is employed to represent an item over which the underlined number is positioned or an item to which the underlined number is adjacent. A non-underlined number relates to an item identified by a line linking the non-underlined number to the item. When a number is non-underlined and accompanied by an associated arrow, the non-underlined number is used to identify a general item at which the arrow is pointing.</p>
+<heading id="h-0006" level="1">DETAILED DESCRIPTION</heading>
+<p id="p-0018" num="0017">The following description and drawings are illustrative and are not to be construed as limiting. Numerous specific details are described to provide a thorough understanding. However, in certain instances, well known or conventional details are not described in order to avoid obscuring the description. References to one or an embodiment in the present disclosure are not necessarily references to the same embodiment; and, such references mean at least one.</p>
+<p id="p-0019" num="0018">Reference in this specification to &#x201c;one embodiment&#x201d; or &#x201c;an embodiment&#x201d; means that a particular feature, structure, or characteristic described in connection with the embodiment is included in at least one embodiment of the disclosure. The appearances of the phrase &#x201c;in one embodiment&#x201d; in various places in the specification are not necessarily all referring to the same embodiment, nor are separate or alternative embodiments mutually exclusive of other embodiments. Moreover, various features are described which may be exhibited by some embodiments and not by others. Similarly, various requirements are described which may be requirements for some embodiments but not other embodiments.</p>
+<p id="p-0020" num="0019">Reference throughout this specification to &#x201c;a select embodiment,&#x201d; &#x201c;one embodiment,&#x201d; or &#x201c;an embodiment&#x201d; means that a particular feature, structure, or characteristic described in connection with the embodiment is included in at least one embodiment of the disclosed subject matter. Thus, appearances of the phrases &#x201c;a select embodiment,&#x201d; &#x201c;in one embodiment,&#x201d; or &#x201c;in an embodiment&#x201d; in various places throughout this specification are not necessarily referring to the same embodiment.</p>
+<p id="p-0021" num="0020">Referring particularly to the drawings, there is shown in <figref idref="DRAWINGS">FIGS. 1-4</figref>, the water helicopter <b>100</b> of this invention. The water helicopter <b>100</b> is composed generally of a fuselage <b>102</b> with an aerodynamic configuration, first and second fixed wings <b>104</b><i>a </i>and <b>104</b><i>b </i>extending outwardly from left and right ends of the fuselage <b>102</b>, first and second propellers <b>106</b><i>a </i>and <b>106</b><i>b </i>disposed in a spaced apart configuration on a top surface of the fuselage <b>102</b>, and landing and float gear <b>110</b>.</p>
+<p id="p-0022" num="0021">The fuselage <b>102</b> is the main body section of the helicopter <b>100</b> that holds crew and passengers or cargo. The fuselage <b>102</b> also serves to position control and stabilization surfaces in specific relationships to lifting surfaces, required for aircraft stability and maneuverability. The fuselage <b>102</b> has a door <b>103</b> for enabling the crew and passengers to enter therein.</p>
+<p id="p-0023" num="0022">The helicopter <b>100</b> is capable of flight using the first and second fixed wings <b>104</b><i>a </i>and <b>104</b><i>b</i>, which generate lift caused by the vehicle's forward airspeed and the shape of the first and second fixed wings <b>104</b><i>a </i>and <b>104</b><i>b. </i></p>
+<p id="p-0024" num="0023">Each of the first and second propellers <b>106</b><i>a </i>and <b>106</b><i>b </i>is a type of fan that transmits power by converting rotational motion into thrust. These propellers <b>106</b><i>a </i>and <b>106</b><i>b </i>revolve around respective rotors to keep the water helicopter <b>100</b> in flight and enable vertical ascending and descending of the same. In an embodiment, the water helicopter <b>100</b> is driven by first and second motors (not shown) which operate the first and second propellers <b>106</b><i>a </i>and <b>106</b><i>b</i>, respectively.</p>
+<p id="p-0025" num="0024">The design of the helicopter <b>100</b> is such that it combines the advantages of the first and second fixed wings <b>104</b><i>a </i>and <b>104</b><i>b</i>, and the first and second propellers <b>106</b><i>a </i>and <b>106</b><i>b </i>to permit normal take-off and landing procedures, as well as vertical ascent and descent as required.</p>
+<p id="p-0026" num="0025">As hereinabove indicated, the design of the helicopter <b>100</b> is such as to incorporate the lifting: capabilities of rotary airfoils in a manner similar to conventional helicopters while at the same time providing for a higher rate of forward airspeed. More particularly, forward and vertical thrusts are correlated whereby lift is attained as a result of such forces. Such design enables the helicopter <b>100</b> to carry a large number of people such as almost twenty without compromising on the forward airspeed.</p>
+<p id="p-0027" num="0026">The landing and float gear <b>110</b> enables the water helicopter <b>100</b> to land on various types of terrain and water. In accordance with an embodiment of the present disclosure, the landing and float gear <b>110</b> may be capable of supporting the helicopter <b>100</b> on various types of terrain including snow, sand and mud. In another embodiment, the landing and float gear <b>110</b> provide buoyancy for the water helicopter <b>100</b>, and facilitates take-off and landing of the water helicopter <b>100</b> from and on water.</p>
+<p id="p-0028" num="0027">The landing and float gear <b>110</b> may be able to support the water helicopter <b>100</b> under normal landing conditions, and also under marine conditions. In another embodiment, the landing and float gear <b>110</b> can be folded and collapsed when the water helicopter <b>100</b> is in the air or on the land.</p>
+<p id="p-0029" num="0028">In an embodiment, the landing and float gear <b>110</b> enables the water helicopter <b>100</b> to withstand a predefined water level <b>112</b>.</p>
+<p id="p-0030" num="0029">The water helicopter <b>100</b> can land on water in emergency situations and can pick up around twenty to twenty five people. The water helicopter <b>100</b> facilitates quicker rescue of large number of people from water bodies, and is suitable to be used by Special and Military forces.</p>
+<p id="p-0031" num="0030">While the embodiments have been described in connection with the preferred embodiments of the various figures, it is to be understood that other similar embodiments may be used or modifications and additions may be made to the described embodiment for performing the same function without deviating therefrom. Therefore, the disclosed embodiments should not be limited to any single embodiment, but rather should be construed in breadth and scope in accordance with the appended claims.</p>
+<?detailed-description description="Detailed Description" end="tail"?>
+</description>
+<claims id="claims">
+<claim id="CLM-00001" num="00001">
+<claim-text><b>1</b>. A water helicopter, comprising:
+<claim-text>a fuselage;</claim-text>
+<claim-text>first and second fixed wings extending outwardly from left and right ends of the fuselage;</claim-text>
+<claim-text>first and second propellers disposed in a spaced apart configuration on a top surface of the fuselage; and</claim-text>
+<claim-text>a landing and float gear attached to a bottom surface of the fuselage for enabling landing of the water helicopter on water.</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00002" num="00002">
+<claim-text><b>2</b>. The water helicopter as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the fuselage has a door for enabling crew and passengers to enter therein.</claim-text>
+</claim>
+<claim id="CLM-00003" num="00003">
+<claim-text><b>3</b>. The water helicopter as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first and second fixed wings generate a lift due to a forward airspeed of the water helicopter, and shapes of the first and second fixed wings.</claim-text>
+</claim>
+<claim id="CLM-00004" num="00004">
+<claim-text><b>4</b>. The water helicopter as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the first and second propellers enable vertical ascending and descending of the water helicopter.</claim-text>
+</claim>
+<claim id="CLM-00005" num="00005">
+<claim-text><b>5</b>. The water helicopter as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the landing and float gear provides buoyancy for the water helicopter and enables take-off and landing of the water helicopter from and on water.</claim-text>
+</claim>
+<claim id="CLM-00006" num="00006">
+<claim-text><b>6</b>. The water helicopter as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the landing and float gear is foldable and collapsible when the water helicopter is in the air.</claim-text>
+</claim>
+<claim id="CLM-00007" num="00007">
+<claim-text><b>7</b>. A water helicopter, comprising:
+<claim-text>a fuselage;
+<claim-text>first and second fixed wings extending outwardly from left and right ends of the fuselage, wherein the first and second fixed wings generate a lift due to a forward airspeed of the water helicopter, and shapes of the first and second fixed wings;</claim-text>
+<claim-text>first and second propellers disposed in a spaced apart configuration on a top surface of the fuselage, wherein the first and second propellers enable vertical ascending and descending of the water helicopter; and</claim-text>
+<claim-text>a landing and float gear attached to a bottom surface of the fuselage for enabling landing of the water helicopter on water.</claim-text>
+</claim-text>
+</claim-text>
+</claim>
+<claim id="CLM-00008" num="00008">
+<claim-text><b>8</b>. The water helicopter as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the fuselage has a door for enabling crew and passengers to enter therein.</claim-text>
+</claim>
+<claim id="CLM-00009" num="00009">
+<claim-text><b>9</b>. The water helicopter as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the landing and float gear provides buoyancy for the water helicopter and enables take-off and landing of the water helicopter from and on water.</claim-text>
+</claim>
+<claim id="CLM-00010" num="00010">
+<claim-text><b>10</b>. The water helicopter as claimed in <claim-ref idref="CLM-00001">claim 1</claim-ref>, wherein the landing and float gear is foldable and collapsible when the water helicopter is in the air.</claim-text>
+</claim>
+</claims>
+</us-patent-application>
