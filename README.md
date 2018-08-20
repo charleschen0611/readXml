@@ -4,8 +4,8 @@ read medical patent info from xml files and output the info to excel
 xmlPojoList dimensions explained
                
               [][0][][]: us patent application: 专利申请信息
-             	[][1][][]: us bibliographic data application: 专利申请著录项目数据
-             	[][2][][]: public reference: 公开信息
+              [][1][][]: us bibliographic data application: 专利申请著录项目数据
+              [][2][][]: public reference: 公开信息
               [][3][][]: application reference: 申请信息
               [][4][][]: us application series code: 美国专利申请序列代码
               [][5][][]: priority claims: 优先权声明
