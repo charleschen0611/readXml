@@ -65,6 +65,101 @@ public class readXml
            new DomTest().writeExcel(XmlPojoList);
            System.out.println("Finished writing.");
         }  
+	
+	//read xml file，store information of patents into 4 dimension String array and return it
+        private static String [][][][] parseXmlPojo() 
+        {  
+        	String [][][][] xmlPojoList = new String[30][30][30][30];  
+            try {  
+            	int n = 2;	//number of files needed to be read
+            	File [] ifile = new File[n];
+            	
+            	//assign files to ifile[]
+            	ifile[0] = new File("US20180002001A1-20180104.XML");
+            	ifile[1] = new File("US20180002000A1-20180104.XML");
+                
+            	//loop the reading procedure for each ifile[t]
+            	for (int t = 0; t < n; t++)
+                {
+            	 
+                DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();  
+                DocumentBuilder builder = factory.newDocumentBuilder();  
+                Document document = builder.parse(ifile[t]); 
+                
+                
+                //start reading xml
+                    
+                //reading <us-patent-application>
+                xmlPojoList = DomTest.readUsPatentApplication(xmlPojoList, document, ifile[t]);
+               
+                //reading <us-bibliographic-data-application>
+                xmlPojoList = DomTest.readUsBibliographicDataApplication(xmlPojoList, document, ifile[t]);
+          
+                //reading <publication-reference>
+                xmlPojoList = DomTest.readPublicReference(xmlPojoList, document, ifile[t]);
+               
+                //reading <application-reference>
+                xmlPojoList = DomTest.readApplicationReference(xmlPojoList, document, ifile[t]);
+               
+               //reading <us-application-series-code>
+               xmlPojoList = DomTest.readUsApplicationSeriesCode(xmlPojoList, document, ifile[t]);
+                
+               //reading <priority-claims>
+                 xmlPojoList = DomTest.readPriorityClaims(xmlPojoList, document, ifile[t]);
+              
+              //reading <classifications-ipcr>
+              xmlPojoList = DomTest.readClassificationsIpcr(xmlPojoList, document, ifile[t]);
+              
+              /*  
+              //reading <classifications-national>
+                xmlPojoList = DomTest.readUsPatentApplication(xmlPojoList, document, ifile[t]);
+                
+                NodeList list7 = document.getElementsByTagName("classifications-national");
+                Node node7 = list7.item(0);
+                
+                if(node7 != null)
+                {
+                	xmlPojoList[z][6+index][0][0] = "classifications-national";
+                	xmlPojoList[z][6+index][0][1] = node7.getTextContent();
+               }
+               
+               //if needed
+               
+               */ 
+                
+              	//reading <invention-title>
+                xmlPojoList = DomTest.readinventionTitle(xmlPojoList, document, ifile[t]);
+                
+                //reading <us-parties>
+                xmlPojoList = DomTest.readParties(xmlPojoList, document, ifile[t]);
+                
+                //reading <abstract>
+                xmlPojoList = DomTest.readAbstract(xmlPojoList, document, ifile[t]);
+              
+                //reading <drawings>
+                xmlPojoList = DomTest.readDrawings(xmlPojoList, document, ifile[t]);
+          	
+                //reading <description>
+                xmlPojoList = DomTest.readDescription(xmlPojoList, document, ifile[t]);
+               
+                //reading <claims>
+                xmlPojoList = DomTest.readClaims(xmlPojoList, document, ifile[t]); 
+             
+                }//end of for
+            } catch (ParserConfigurationException e) 
+            {  
+                e.printStackTrace();  
+            } catch (SAXException e) 
+            {  
+                e.printStackTrace();  
+            } catch (IOException e) 
+            {  
+                e.printStackTrace();  
+            } 
+            
+            return xmlPojoList;  
+        } 
+	
         private static String [][][][] readUsPatentApplication(String [][][][] xmlPojoList, Document document, File ifile)
         {
 
@@ -589,6 +684,8 @@ public class readXml
             }
         	return xmlPojoList;
         }
+	
+	
         private static String [][][][] readClaims(String [][][][] xmlPojoList, Document document, File iflie)
         {
 
@@ -618,40 +715,6 @@ public class readXml
           			  xmlPojoList[z][14+index+index2][index4][1]=temp;
           		  }
           		  
-          		  //System.out.println("@@@@"+j+"@@@@");
-          		 // System.out.println("~~"+l+"~~~"+temp);
-          		  
-          		  
-          		  
-          		  
-          		  /*
-          		   * 
-          		   * 
-          		   * 
-          		   * 写到这了！！！！！！！
-          		   * 
-          		   * 
-          		   * 
-          		   * 
-          		   * 
-          		   * 
-          		   * 
-          		   * 
-          		   * */
-          		  //System.out.println(")))))))"+xmlPojoList[14+index+index2][index4]);
-          		  
-          		  
-          		  /*
-          		  //Test
-          		  for(int u = 0; u < xmlPojoList[14+index+index2].length; u++)
-          		  {
-          			  if(xmlPojoList[14+index+index2][u]!=null)
-          			  {
-          				 // System.out.println(")))))))"+xmlPojoList[14+index+index2][u]);
-          			  }	
-          		  }
-          		  */
-          		  // xmlPojoList[14+index][0] = temp;
           		  c++;
           		  
           	  }
@@ -671,99 +734,7 @@ public class readXml
           // System.out.println(z);
         	return xmlPojoList;
         }
-       //read xml file，store information of patents into 4 dimension String array and return it
-        private static String [][][][] parseXmlPojo() 
-        {  
-        	String [][][][] xmlPojoList = new String[30][30][30][30];  
-            try {  
-            	int n = 2;	//number of files needed to be read
-            	File [] ifile = new File[n];
-            	
-            	//assign files to ifile[]
-            	ifile[0] = new File("US20180002001A1-20180104.XML");
-            	ifile[1] = new File("US20180002000A1-20180104.XML");
-                
-            	//loop the reading procedure for each ifile[t]
-            	for (int t = 0; t < n; t++)
-                {
-            	 
-                DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();  
-                DocumentBuilder builder = factory.newDocumentBuilder();  
-                Document document = builder.parse(ifile[t]); 
-                
-                
-                //start reading xml
-                    
-                //reading <us-patent-application>
-                xmlPojoList = DomTest.readUsPatentApplication(xmlPojoList, document, ifile[t]);
-               
-                //reading <us-bibliographic-data-application>
-                xmlPojoList = DomTest.readUsBibliographicDataApplication(xmlPojoList, document, ifile[t]);
-          
-                //reading <publication-reference>
-                xmlPojoList = DomTest.readPublicReference(xmlPojoList, document, ifile[t]);
-               
-                //reading <application-reference>
-                xmlPojoList = DomTest.readApplicationReference(xmlPojoList, document, ifile[t]);
-               
-               //reading <us-application-series-code>
-               xmlPojoList = DomTest.readUsApplicationSeriesCode(xmlPojoList, document, ifile[t]);
-                
-               //reading <priority-claims>
-                 xmlPojoList = DomTest.readPriorityClaims(xmlPojoList, document, ifile[t]);
-              
-              //reading <classifications-ipcr>
-              xmlPojoList = DomTest.readClassificationsIpcr(xmlPojoList, document, ifile[t]);
-              
-              /*  
-              //reading <classifications-national>
-                xmlPojoList = DomTest.readUsPatentApplication(xmlPojoList, document, ifile[t]);
-                
-                NodeList list7 = document.getElementsByTagName("classifications-national");
-                Node node7 = list7.item(0);
-                
-                if(node7 != null)
-                {
-                	xmlPojoList[z][6+index][0][0] = "classifications-national";
-                	xmlPojoList[z][6+index][0][1] = node7.getTextContent();
-               }
-               
-               //if needed
-               
-               */ 
-                
-              	//reading <invention-title>
-                xmlPojoList = DomTest.readinventionTitle(xmlPojoList, document, ifile[t]);
-                
-                //reading <us-parties>
-                xmlPojoList = DomTest.readParties(xmlPojoList, document, ifile[t]);
-                
-                //reading <abstract>
-                xmlPojoList = DomTest.readAbstract(xmlPojoList, document, ifile[t]);
-              
-                //reading <drawings>
-                xmlPojoList = DomTest.readDrawings(xmlPojoList, document, ifile[t]);
-          	
-                //reading <description>
-                xmlPojoList = DomTest.readDescription(xmlPojoList, document, ifile[t]);
-               
-                //reading <claims>
-                xmlPojoList = DomTest.readClaims(xmlPojoList, document, ifile[t]); 
-             
-                }//end of for
-            } catch (ParserConfigurationException e) 
-            {  
-                e.printStackTrace();  
-            } catch (SAXException e) 
-            {  
-                e.printStackTrace();  
-            } catch (IOException e) 
-            {  
-                e.printStackTrace();  
-            } 
-            
-            return xmlPojoList;  
-        } 
+       
         private static void writeExcel(String [][][][] XmlPojoList)
         {
         	//Writing Excel
