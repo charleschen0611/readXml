@@ -9,7 +9,7 @@ xmlPojoList dimensions explained
               [][3][][]: application reference: 申请信息
               [][4][][]: us application series code: 美国专利申请序列代码
               [][5][][]: priority claims: 优先权声明
-              [][6 - 6+index][]: classifications ipcr: 国际专利分类数据 8 版
+              [][6 : 6+index][]: classifications ipcr: 国际专利分类数据 8 版
               [][7+index][][]:  invention title: 美国国家分类
               [][8+index][][]:  parties: 当事人信息：公司信息
               [][9+index][][]:  inventors: 当事人信息：发明者信息(assignees)
@@ -20,7 +20,7 @@ xmlPojoList dimensions explained
               
               14 elements' name stored in [][xx][0][2]
               1st dimension represents different files 
-              different element stored in 2nd dimension
+              different types of elements stored in 2nd dimension
               different attributes stored in 3rd dimension  
               different attributes' name stored in [][xx][x][0]
               different attributes' value stored in [][xx][x][1]
